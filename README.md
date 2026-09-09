@@ -176,7 +176,7 @@ aws-actions/amazon-ecs-deploy-express-service@v1.2.2
 aws-actions/amazon-ecs-deploy-task-definition@v2.6.3
 aws-actions/amazon-ecs-render-task-definition@v1.9.0
 aws-actions/amazon-eks-fargate@v0.1.1
-aws-actions/application-observability-for-aws@v1.1.1
+aws-actions/application-observability-for-aws@v1.2.0
 aws-actions/aws-cloudformation-github-deploy@v2.2.0
 aws-actions/aws-codebuild-run-build@v1.0.19
 aws-actions/aws-elasticbeanstalk-deploy@v1.0.8
@@ -205,7 +205,7 @@ aws-actions/amazon-ecs-deploy-express-service@7c48a2de16441d528a3c89829831968dc1
 aws-actions/amazon-ecs-deploy-task-definition@c465972ecbd160473f22e683363b422a5412a3de # v2.6.3
 aws-actions/amazon-ecs-render-task-definition@138c24f321fdbdf7edee4a685519d253cae2cdea # v1.9.0
 aws-actions/amazon-eks-fargate@fa91b1ce6e342eb17a1d57df976506d02f074640 # v0.1.1
-aws-actions/application-observability-for-aws@95bb59e4538ba9ef746805d8a2bbbe531ba2a728 # v1.1.1
+aws-actions/application-observability-for-aws@8a45f947c9e9f2b1bc7288beb74c7444fdf74240 # v1.2.0
 aws-actions/aws-cloudformation-github-deploy@81e3b03d2266bcb76c4bcc37a7d71d9cb67838bb # v2.2.0
 aws-actions/aws-codebuild-run-build@7e46c3fa1c1f217e26a73712796b1f78938b534b # v1.0.19
 aws-actions/aws-elasticbeanstalk-deploy@7883cdd454c162051bf6fc13389536b045149b4c # v1.0.8
@@ -398,7 +398,7 @@ Azure/k8s-create-secret@v6.0.1
 Azure/k8s-deploy@v7.0.0
 Azure/k8s-lint@v4.0.0
 Azure/k8s-set-context@v5.0.1
-Azure/login@v3.0.1
+Azure/login@v3.0.2
 Azure/setup-helm@v5.0.1
 Azure/setup-kubectl@v5.1.0
 Azure/sql-action@v2.2.1
@@ -425,7 +425,7 @@ Azure/k8s-create-secret@ba774cded95cc0d795806a986fecd1205a6c2320 # v6.0.1
 Azure/k8s-deploy@51ca02a8b7225fbd0924aac359c5b336a5f1e5b4 # v7.0.0
 Azure/k8s-lint@e4234c50ea835112e72b145bdecd00a94bad42fd # v4.0.0
 Azure/k8s-set-context@8698eba2499e9012f0d5085f8798077cce4bc526 # v5.0.1
-Azure/login@f5d393ae46f8fde4be8b75f32e3fc50e654ad0ca # v3.0.1
+Azure/login@7ddb5af1ef8758cf1353cf3b42f940aee27ba21c # v3.0.2
 Azure/setup-helm@9bc31f4ebc9c6b171d7bfbaa5d006ae7abdb4310 # v5.0.1
 Azure/setup-kubectl@829323503d1be3d00ca8346e5391ca0b07a9ab0d # v5.1.0
 Azure/sql-action@96cea35f2b24c72eb5b6ece33d45e6f60e6b7b87 # v2.2.1
