@@ -3,7 +3,7 @@ aws-actions/amazon-ecs-deploy-express-service@v1.2.2
 aws-actions/amazon-ecs-deploy-task-definition@v2.6.3
 aws-actions/amazon-ecs-render-task-definition@v1.9.0
 aws-actions/amazon-eks-fargate@v0.1.1
-aws-actions/application-observability-for-aws@v1.2.0
+aws-actions/application-observability-for-aws@v1.2.1
 aws-actions/aws-cloudformation-github-deploy@v2.2.0
 aws-actions/aws-codebuild-run-build@v1.0.19
 aws-actions/aws-elasticbeanstalk-deploy@v1.0.8

@@ -4292,6 +4292,10 @@
       "sha": "20cfd1bf945f4377ade1205e4dbc17946fc9a30d",
       "first_seen": "2026-08-15"
     },
+    "v10.1.0": {
+      "sha": "bec219d24cd3e171d82865faccec33120bb574f4",
+      "first_seen": "2026-09-11"
+    },
     "v2.0.0": {
       "sha": "663d8f70829702a37fcda5d723127b0582c125e8",
       "first_seen": "2026-06-06"
