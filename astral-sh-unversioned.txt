@@ -2,6 +2,7 @@ astral-sh/.github
 astral-sh/RustPython
 astral-sh/actionlint
 astral-sh/aghs-testbed
+astral-sh/aghs-testbed-policies
 astral-sh/archive-in-git-test
 astral-sh/cargo-fixit
 astral-sh/char_str
@@ -31,11 +32,14 @@ astral-sh/renovate-config
 astral-sh/ruff-issue-template-test
 astral-sh/ruff-vscode
 astral-sh/rust-sdks
+astral-sh/rust-smallvec
 astral-sh/rye
 astral-sh/sanitize-wheel-test
 astral-sh/schemastore
 astral-sh/termux-python
 astral-sh/test-lfs-repo
+astral-sh/thin-vec
+astral-sh/toucan
 astral-sh/transformers
 astral-sh/ty
 astral-sh/ty-vscode
