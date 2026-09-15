@@ -5749,6 +5749,10 @@
     "v6.2.4": {
       "sha": "cbe3b392738ccf3f987d68400dafcf4b0624a56c",
       "first_seen": "2026-09-01"
+    },
+    "v6.3.0": {
+      "sha": "e1253824e5c10ff9df46874f81ed3ec929e19cfd",
+      "first_seen": "2026-09-15"
     }
   },
   "aws-actions/handle-non-labeled-issues": {
@@ -6621,6 +6625,10 @@
     "v7.3.0": {
       "sha": "d3418bd7d0e9324001bca92fa8ba175ea7e6dc9b",
       "first_seen": "2026-07-02"
+    },
+    "v7.4.0": {
+      "sha": "018cb6412ab401ebaa809aa5f85966b74628600f",
+      "first_seen": "2026-09-15"
     }
   },
   "docker/build-push-action": {
@@ -6887,6 +6895,10 @@
     "v7.3.0": {
       "sha": "53b7df96c91f9c12dcc8a07bcb9ccacbed38856a",
       "first_seen": "2026-07-02"
+    },
+    "v7.4.0": {
+      "sha": "c3c9e263c25d99ce0380d002d59b67737d91b0dc",
+      "first_seen": "2026-09-15"
     }
   },
   "docker/cagent-action": {
@@ -7303,6 +7315,10 @@
     "v2.0.7": {
       "sha": "bd672e0d95c61bb79e899f1ea71d44e19b12f91f",
       "first_seen": "2026-09-09"
+    },
+    "v2.0.8": {
+      "sha": "c3d5c9b1517c670f468086c577b8339ce2344b5e",
+      "first_seen": "2026-09-15"
     }
   },
   "docker/login-action": {
@@ -8151,6 +8167,10 @@
     "v4.3.0": {
       "sha": "37fe631027851001ddb9b187196cc803df7f5f0e",
       "first_seen": "2026-08-20"
+    },
+    "v4.4.0": {
+      "sha": "594f3bf4285d9ea8dc53c9a0c9c4092420091003",
+      "first_seen": "2026-09-15"
     }
   },
   "docker/setup-compose-action": {

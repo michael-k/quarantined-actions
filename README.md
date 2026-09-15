@@ -184,7 +184,7 @@ aws-actions/aws-lambda-deploy@v1.1.2
 aws-actions/aws-secretsmanager-get-secrets@v3.0.1
 aws-actions/cloudformation-aws-iam-policy-validator@v1.0.4
 aws-actions/codeguru-security@v1.2.2
-aws-actions/configure-aws-credentials@v6.2.3
+aws-actions/configure-aws-credentials@v6.2.4
 aws-actions/handle-non-labeled-issues@v1.0.1
 aws-actions/stale-issue-cleanup@v7.1.1
 aws-actions/sustainability-scanner@v1.3.1
@@ -213,7 +213,7 @@ aws-actions/aws-lambda-deploy@d496277188b89f0be02d7a2216fc912c0427702a # v1.1.2
 aws-actions/aws-secretsmanager-get-secrets@2cb1a461cbd4865ac4299648312e4704c646cd53 # v3.0.1
 aws-actions/cloudformation-aws-iam-policy-validator@aa5ca59693ba89d200db1d2b3af4b60989627bdc # v1.0.4
 aws-actions/codeguru-security@44877802cfee29abce47f8ba12b8417d70d01a9b # v1.2.2
-aws-actions/configure-aws-credentials@e6de054238d6b7531b4efff3b6587d9aade6a06c # v6.2.3
+aws-actions/configure-aws-credentials@cbe3b392738ccf3f987d68400dafcf4b0624a56c # v6.2.4
 aws-actions/handle-non-labeled-issues@d6b11a820a09b58180471df5be076df19f05b9dd # v1.0.1
 aws-actions/stale-issue-cleanup@0604f2edf84a3a66bc0dfb4a30eb07814cbdf440 # v7.1.1
 aws-actions/sustainability-scanner@d6067411fc5290a836e3ebcf388c746d83cf0e9f # v1.3.1
@@ -395,7 +395,7 @@ Azure/data-factory-validate-action@v1.1.6
 Azure/deployment-what-if-action@v1.0.0
 Azure/k8s-bake@v4.1.1
 Azure/k8s-create-secret@v6.0.1
-Azure/k8s-deploy@v7.0.0
+Azure/k8s-deploy@v7.0.1
 Azure/k8s-lint@v4.0.0
 Azure/k8s-set-context@v5.0.1
 Azure/login@v3.0.2
@@ -422,7 +422,7 @@ Azure/data-factory-validate-action@1a1e93960902bd7de128c22b985fb6256988af4b # v1
 Azure/deployment-what-if-action@7caef615e35c10abe2d2dd2ec811071697e9d723 # v1.0.0
 Azure/k8s-bake@bf8bfd33b007edea820fe80983239bca24012239 # v4.1.1
 Azure/k8s-create-secret@ba774cded95cc0d795806a986fecd1205a6c2320 # v6.0.1
-Azure/k8s-deploy@51ca02a8b7225fbd0924aac359c5b336a5f1e5b4 # v7.0.0
+Azure/k8s-deploy@bf1ec05e1d736ac4ac70bae889d3ec48c79e2213 # v7.0.1
 Azure/k8s-lint@e4234c50ea835112e72b145bdecd00a94bad42fd # v4.0.0
 Azure/k8s-set-context@8698eba2499e9012f0d5085f8798077cce4bc526 # v5.0.1
 Azure/login@7ddb5af1ef8758cf1353cf3b42f940aee27ba21c # v3.0.2
