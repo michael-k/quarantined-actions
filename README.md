@@ -100,7 +100,7 @@ actions/create-github-app-token@v3.2.0
 actions/create-release@v1.1.4
 actions/delete-package-versions@v5.0.0
 actions/dependency-review-action@v5.0.0
-actions/deploy-pages@v5.0.0
+actions/deploy-pages@v5.0.1
 actions/download-artifact@v8.0.1
 actions/first-interaction@v3.1.0
 actions/github-script@v9.0.0
@@ -140,7 +140,7 @@ actions/create-github-app-token@bcd2ba49218906704ab6c1aa796996da409d3eb1 # v3.2.
 actions/create-release@0cb9c9b65d5d1901c1f53e5e66eaf4afd303e70e # v1.1.4
 actions/delete-package-versions@e5bc658cc4c965c472efe991f8beea3981499c55 # v5.0.0
 actions/dependency-review-action@a1d282b36b6f3519aa1f3fc636f609c47dddb294 # v5.0.0
-actions/deploy-pages@cd2ce8fcbc39b97be8ca5fce6e763baed58fa128 # v5.0.0
+actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1
 actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
 actions/first-interaction@1c4688942c71f71d4f5502a26ea67c331730fa4d # v3.1.0
 actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9.0.0
@@ -267,7 +267,7 @@ docker/scout-action@v1.24.0
 docker/setup-buildx-action@v4.3.0
 docker/setup-compose-action@v2.3.0
 docker/setup-docker-action@v5.4.0
-docker/setup-qemu-action@v4.2.0
+docker/setup-qemu-action@v4.3.0
 ```
 
 </details>
@@ -288,7 +288,7 @@ docker/scout-action@7c6b6c3f7844478ace1ffd4e7aef649053d1f87d # v1.24.0
 docker/setup-buildx-action@37fe631027851001ddb9b187196cc803df7f5f0e # v4.3.0
 docker/setup-compose-action@4eb059ff7f16592f9c84d5ca339c53cb7c5064e2 # v2.3.0
 docker/setup-docker-action@77e84dbf09b47d1e29270283c22f16145aa85ca1 # v5.4.0
-docker/setup-qemu-action@96fe6ef7f33517b61c61be40b68a1882f3264fb8 # v4.2.0
+docker/setup-qemu-action@1f40c72289eff860ee54a304f1438e3cff362e0a # v4.3.0
 ```
 
 </details>
