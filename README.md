@@ -260,7 +260,7 @@ astral-sh/setup-uv@20cfd1bf945f4377ade1205e4dbc17946fc9a30d # v10.0.1
 docker/bake-action@v7.3.0
 docker/build-push-action@v7.3.0
 docker/cagent-action@v1.5.5
-docker/docker-agent-action@v2.0.5
+docker/docker-agent-action@v2.0.6
 docker/login-action@v4.6.0
 docker/metadata-action@v6.2.0
 docker/scout-action@v1.24.0
@@ -281,7 +281,7 @@ docker/setup-qemu-action@v4.3.0
 docker/bake-action@d3418bd7d0e9324001bca92fa8ba175ea7e6dc9b # v7.3.0
 docker/build-push-action@53b7df96c91f9c12dcc8a07bcb9ccacbed38856a # v7.3.0
 docker/cagent-action@367a30ddb41e0156459d03750f508eac03f3c38a # v1.5.5
-docker/docker-agent-action@06e1767af06263c93d712449cbf859778d9392ee # v2.0.5
+docker/docker-agent-action@4dcb32aa716addc5ce33f8b4d33cb635ae174d7e # v2.0.6
 docker/login-action@dbcb813823bdd20940b903addbd779551569679f # v4.6.0
 docker/metadata-action@dc802804100637a589fabce1cb79ff13a1411302 # v6.2.0
 docker/scout-action@7c6b6c3f7844478ace1ffd4e7aef649053d1f87d # v1.24.0
@@ -439,7 +439,7 @@ Azure/sql-action@96cea35f2b24c72eb5b6ece33d45e6f60e6b7b87 # v2.2.1
 <summary><h3><code>pnpm</code></h3></summary>
 
 ```
-pnpm/action-setup@v6.0.10
+pnpm/action-setup@v6.1.0
 ```
 
 </details>
@@ -450,7 +450,7 @@ pnpm/action-setup@v6.0.10
 <summary><h3><code>pnpm</code> (SHA-pinned)</h3></summary>
 
 ```
-pnpm/action-setup@0977fd99725f1db4007ccb2928dbb4e90d06cc86 # v6.0.10
+pnpm/action-setup@ea17c68df8912ef543352723c149a84f56e3d413 # v6.1.0
 ```
 
 </details>
