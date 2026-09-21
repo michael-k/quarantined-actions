@@ -63,3 +63,4 @@ astral-sh/wiremock-rs
 astral-sh/workspace-in-root-test
 astral-sh/workspace-virtual-root-test
 astral-sh/workspace-with-root-dependency-test
+astral-sh/xeme
