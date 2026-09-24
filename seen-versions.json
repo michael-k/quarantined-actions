@@ -5821,6 +5821,10 @@
     "v1.3.1": {
       "sha": "d6067411fc5290a836e3ebcf388c746d83cf0e9f",
       "first_seen": "2000-01-01"
+    },
+    "v1.4.0": {
+      "sha": "af96153806024859a75e721a2e20a285040ee891",
+      "first_seen": "2026-09-24"
     }
   },
   "aws-actions/terraform-aws-iam-policy-validator": {
