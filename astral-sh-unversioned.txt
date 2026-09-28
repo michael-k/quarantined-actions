@@ -18,6 +18,7 @@ astral-sh/hawk
 astral-sh/image
 astral-sh/lean_string
 astral-sh/lfs-cowsay
+astral-sh/llvm-build
 astral-sh/lsp-types
 astral-sh/mirror
 astral-sh/multiplay
