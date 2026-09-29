@@ -1,11 +1,11 @@
-docker/bake-action@v7.3.0
-docker/build-push-action@v7.3.0
+docker/bake-action@v7.4.0
+docker/build-push-action@v7.4.0
 docker/cagent-action@v1.5.5
-docker/docker-agent-action@v2.0.7
+docker/docker-agent-action@v2.0.8
 docker/login-action@v4.6.0
 docker/metadata-action@v6.2.0
 docker/scout-action@v1.24.0
-docker/setup-buildx-action@v4.3.0
+docker/setup-buildx-action@v4.4.0
 docker/setup-compose-action@v2.3.0
 docker/setup-docker-action@v5.4.0
 docker/setup-qemu-action@v4.3.0
