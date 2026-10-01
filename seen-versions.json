@@ -5945,6 +5945,10 @@
     "v5.0.0": {
       "sha": "60623acbdcbbdcf799ad50a1adf8703874339f8b",
       "first_seen": "2000-01-01"
+    },
+    "v5.0.1": {
+      "sha": "883bdc8d8d1d0fd87e66cc4ba6f0b618f9eb5281",
+      "first_seen": "2026-10-01"
     }
   },
   "Azure/bicep-build-action": {
@@ -7933,6 +7937,14 @@
     "v1.24.0": {
       "sha": "7c6b6c3f7844478ace1ffd4e7aef649053d1f87d",
       "first_seen": "2026-07-31"
+    },
+    "v1.25.0": {
+      "sha": "221e7f4860634eeb1579e3bd7ca232e577bd1864",
+      "first_seen": "2026-10-01"
+    },
+    "v1.26.0": {
+      "sha": "221e7f4860634eeb1579e3bd7ca232e577bd1864",
+      "first_seen": "2026-10-01"
     },
     "v1.3.0": {
       "sha": "42a6acc319ac229f86e12bfca3b83de09fb058be",
