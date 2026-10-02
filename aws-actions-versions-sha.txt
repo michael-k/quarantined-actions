@@ -6,7 +6,7 @@ aws-actions/amazon-eks-fargate@fa91b1ce6e342eb17a1d57df976506d02f074640 # v0.1.1
 aws-actions/application-observability-for-aws@3ad2bc7d604dc6853b503f18ad4d5495dcf4ee08 # v1.2.1
 aws-actions/aws-cloudformation-github-deploy@81e3b03d2266bcb76c4bcc37a7d71d9cb67838bb # v2.2.0
 aws-actions/aws-codebuild-run-build@7e46c3fa1c1f217e26a73712796b1f78938b534b # v1.0.19
-aws-actions/aws-elasticbeanstalk-deploy@fad9d97d1242de476eeebe3ca9a13b700f0e294a # v1.0.9
+aws-actions/aws-elasticbeanstalk-deploy@dd5ddd5ba6d4ed614a60db58881028eddb7652cb # v1.1.0
 aws-actions/aws-lambda-deploy@d496277188b89f0be02d7a2216fc912c0427702a # v1.1.2
 aws-actions/aws-secretsmanager-get-secrets@2297f9a879480a9e3af9b293ed15c70caf8e1c88 # v3.0.2
 aws-actions/cloudformation-aws-iam-policy-validator@aa5ca59693ba89d200db1d2b3af4b60989627bdc # v1.0.4
