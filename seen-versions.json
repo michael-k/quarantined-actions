@@ -5329,6 +5329,16 @@
       "first_seen": "2026-06-06"
     }
   },
+  "aws-actions/aws-continuum-run-pentest": {
+    "v0.1.1": {
+      "sha": "5728ad9e21e899b391b256cbc572b19f43e23668",
+      "first_seen": "2026-10-05"
+    },
+    "v1.0.0": {
+      "sha": "1752c1469cb54edda9933d414490d04cd0cd2d10",
+      "first_seen": "2026-10-05"
+    }
+  },
   "aws-actions/aws-devicefarm-browser-testing": {
     "v3": {
       "sha": "08307129ceef7ad2999ce39e54fa9334df61bfb1",
