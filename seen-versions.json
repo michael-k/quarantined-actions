@@ -5175,6 +5175,10 @@
     "v1.9.0": {
       "sha": "138c24f321fdbdf7edee4a685519d253cae2cdea",
       "first_seen": "2026-07-01"
+    },
+    "v1.9.1": {
+      "sha": "8d79160660ad39c402a16e5fc7cd2a32e8f7d6b7",
+      "first_seen": "2026-10-06"
     }
   },
   "aws-actions/amazon-eks-fargate": {

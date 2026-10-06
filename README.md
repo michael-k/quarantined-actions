@@ -232,7 +232,7 @@ aws-actions/vulnerability-scan-github-action-for-amazon-inspector@baab69e77b34f2
 astral-sh/attest-action@v0.0.6
 astral-sh/pyx-auth-action@v0.0.11
 astral-sh/ruff-action@v4.1.0
-astral-sh/setup-uv@v10.1.0
+astral-sh/setup-uv@v10.2.0
 ```
 
 </details>
@@ -246,7 +246,7 @@ astral-sh/setup-uv@v10.1.0
 astral-sh/attest-action@f589a42a7efb6fe400b4f400de60b4bc90390027 # v0.0.6
 astral-sh/pyx-auth-action@79e821562a189d464bb5cca38f596780342036c3 # v0.0.11
 astral-sh/ruff-action@278981a28ce3188b1e39527901f38254bf3aac89 # v4.1.0
-astral-sh/setup-uv@bec219d24cd3e171d82865faccec33120bb574f4 # v10.1.0
+astral-sh/setup-uv@c18668ad3cf93ea998bef934396af7bb5c839dc7 # v10.2.0
 ```
 
 </details>
