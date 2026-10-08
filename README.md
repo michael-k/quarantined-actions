@@ -187,7 +187,7 @@ aws-actions/codeguru-security@v1.2.2
 aws-actions/configure-aws-credentials@v6.3.0
 aws-actions/handle-non-labeled-issues@v1.0.1
 aws-actions/stale-issue-cleanup@v7.1.1
-aws-actions/sustainability-scanner@v1.3.1
+aws-actions/sustainability-scanner@v1.4.0
 aws-actions/terraform-aws-iam-policy-validator@v1.0.3
 aws-actions/vulnerability-scan-github-action-for-amazon-inspector@v1.6.0
 ```
@@ -216,7 +216,7 @@ aws-actions/codeguru-security@44877802cfee29abce47f8ba12b8417d70d01a9b # v1.2.2
 aws-actions/configure-aws-credentials@e1253824e5c10ff9df46874f81ed3ec929e19cfd # v6.3.0
 aws-actions/handle-non-labeled-issues@d6b11a820a09b58180471df5be076df19f05b9dd # v1.0.1
 aws-actions/stale-issue-cleanup@0604f2edf84a3a66bc0dfb4a30eb07814cbdf440 # v7.1.1
-aws-actions/sustainability-scanner@d6067411fc5290a836e3ebcf388c746d83cf0e9f # v1.3.1
+aws-actions/sustainability-scanner@af96153806024859a75e721a2e20a285040ee891 # v1.4.0
 aws-actions/terraform-aws-iam-policy-validator@1cd3c484b95b6c3d9e42ca1797d89ae74eb29ede # v1.0.3
 aws-actions/vulnerability-scan-github-action-for-amazon-inspector@baab69e77b34f244adef1f702d0fd69f2b3bc545 # v1.6.0
 ```
