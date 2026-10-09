@@ -5939,6 +5939,10 @@
     "v1.6.0": {
       "sha": "baab69e77b34f244adef1f702d0fd69f2b3bc545",
       "first_seen": "2026-07-29"
+    },
+    "v1.6.1": {
+      "sha": "c87d8a405e237cfdf16e5dd3808d28d088d7cb6f",
+      "first_seen": "2026-10-09"
     }
   },
   "Azure/aca-review-apps": {
@@ -6011,6 +6015,10 @@
     "v2.3.0": {
       "sha": "66910e9c5c7733c33a1cd605030d02234b3bc4ed",
       "first_seen": "2000-01-01"
+    },
+    "v2.4.0": {
+      "sha": "4dc076a544e5297d3aeb3cb972e7614e12f5a55b",
+      "first_seen": "2026-10-09"
     }
   },
   "Azure/data-factory-deploy-action": {
