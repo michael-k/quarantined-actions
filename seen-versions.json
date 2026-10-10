@@ -4320,6 +4320,10 @@
       "sha": "c18668ad3cf93ea998bef934396af7bb5c839dc7",
       "first_seen": "2026-09-22"
     },
+    "v10.3.0": {
+      "sha": "1c37ad07a6a961277cf70c0d37d6f313000f5884",
+      "first_seen": "2026-10-10"
+    },
     "v2.0.0": {
       "sha": "663d8f70829702a37fcda5d723127b0582c125e8",
       "first_seen": "2026-06-06"
@@ -4981,6 +4985,10 @@
     "v2.6.3": {
       "sha": "c465972ecbd160473f22e683363b422a5412a3de",
       "first_seen": "2026-07-02"
+    },
+    "v2.6.4": {
+      "sha": "a00d4d57ac0de1a99b39fe469f3d898d38717c2b",
+      "first_seen": "2026-10-10"
     }
   },
   "aws-actions/amazon-ecs-render-task-definition": {
