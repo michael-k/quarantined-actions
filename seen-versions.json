@@ -1371,6 +1371,10 @@
     "v3.2.0": {
       "sha": "bcd2ba49218906704ab6c1aa796996da409d3eb1",
       "first_seen": "2000-01-01"
+    },
+    "v3.3.0": {
+      "sha": "64ab729a6294000f5aa4a4bc0b73d1f32bc45510",
+      "first_seen": "2026-10-13"
     }
   },
   "actions/create-release": {
@@ -5867,6 +5871,10 @@
     "v1.4.0": {
       "sha": "af96153806024859a75e721a2e20a285040ee891",
       "first_seen": "2026-09-24"
+    },
+    "v1.4.1": {
+      "sha": "e9cc38a79df82ee4130722108aad2f87a2083fa2",
+      "first_seen": "2026-10-13"
     }
   },
   "aws-actions/terraform-aws-iam-policy-validator": {
