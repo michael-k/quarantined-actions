@@ -1,5 +1,5 @@
 Azure/aca-review-apps@edb566ff1c235496327839df6c82713cbe9e93ac # v0.2.1
-Azure/aks-set-context@60623acbdcbbdcf799ad50a1adf8703874339f8b # v5.0.0
+Azure/aks-set-context@883bdc8d8d1d0fd87e66cc4ba6f0b618f9eb5281 # v5.0.1
 Azure/bicep-build-action@d2a88e5c7150cd562f3e8b8f361560db2cb4d5c5 # v1.0.1
 Azure/bicep-deploy@66910e9c5c7733c33a1cd605030d02234b3bc4ed # v2.3.0
 Azure/data-factory-deploy-action@390b7811bd2e99d4b8cef1bff69dab47bb5872ce # v1.2.0

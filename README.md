@@ -263,7 +263,7 @@ docker/cagent-action@v1.5.5
 docker/docker-agent-action@v2.0.9
 docker/login-action@v4.6.0
 docker/metadata-action@v6.2.0
-docker/scout-action@v1.24.0
+docker/scout-action@v1.26.0
 docker/setup-buildx-action@v4.4.1
 docker/setup-compose-action@v2.4.0
 docker/setup-docker-action@v5.5.0
@@ -284,7 +284,7 @@ docker/cagent-action@367a30ddb41e0156459d03750f508eac03f3c38a # v1.5.5
 docker/docker-agent-action@3654ec391b070e247de2e2e3c1ff2519b6378b3a # v2.0.9
 docker/login-action@dbcb813823bdd20940b903addbd779551569679f # v4.6.0
 docker/metadata-action@dc802804100637a589fabce1cb79ff13a1411302 # v6.2.0
-docker/scout-action@7c6b6c3f7844478ace1ffd4e7aef649053d1f87d # v1.24.0
+docker/scout-action@221e7f4860634eeb1579e3bd7ca232e577bd1864 # v1.26.0
 docker/setup-buildx-action@f87e5991a6d7451dcb8d9637bfbc97413f497069 # v4.4.1
 docker/setup-compose-action@54042514f505b273907334ae2b9cdbb9a0213c1a # v2.4.0
 docker/setup-docker-action@2bf61fb9464cc67f0cbdeabed6aa0380accd1c70 # v5.5.0
@@ -386,7 +386,7 @@ hashicorp/vault-action@892a26828f195e65540a40b4768ae4571f51ebfc # v4.0.0
 
 ```
 Azure/aca-review-apps@v0.2.1
-Azure/aks-set-context@v5.0.0
+Azure/aks-set-context@v5.0.1
 Azure/bicep-build-action@v1.0.1
 Azure/bicep-deploy@v2.3.0
 Azure/data-factory-deploy-action@v1.2.0
@@ -413,7 +413,7 @@ Azure/sql-action@v2.2.1
 
 ```
 Azure/aca-review-apps@edb566ff1c235496327839df6c82713cbe9e93ac # v0.2.1
-Azure/aks-set-context@60623acbdcbbdcf799ad50a1adf8703874339f8b # v5.0.0
+Azure/aks-set-context@883bdc8d8d1d0fd87e66cc4ba6f0b618f9eb5281 # v5.0.1
 Azure/bicep-build-action@d2a88e5c7150cd562f3e8b8f361560db2cb4d5c5 # v1.0.1
 Azure/bicep-deploy@66910e9c5c7733c33a1cd605030d02234b3bc4ed # v2.3.0
 Azure/data-factory-deploy-action@390b7811bd2e99d4b8cef1bff69dab47bb5872ce # v1.2.0
