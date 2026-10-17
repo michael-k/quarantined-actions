@@ -5431,6 +5431,10 @@
     "v1.1.1": {
       "sha": "aa4500f20082bb84ee802a632e74021baabba3b2",
       "first_seen": "2026-10-15"
+    },
+    "v1.1.2": {
+      "sha": "64a802e1f41fc559cf0a17e3e8e81bd6aaade12e",
+      "first_seen": "2026-10-17"
     }
   },
   "aws-actions/aws-lambda-deploy": {
