@@ -37,6 +37,7 @@ astral-sh/rust-smallvec
 astral-sh/rye
 astral-sh/sanitize-wheel-test
 astral-sh/schemastore
+astral-sh/serc
 astral-sh/termux-python
 astral-sh/test-lfs-repo
 astral-sh/thin-vec

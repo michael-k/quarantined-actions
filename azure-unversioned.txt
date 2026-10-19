@@ -4,3 +4,4 @@ Azure/PSRule.Rules.Azure-quickstart
 Azure/aks-create-action
 Azure/azure-data-labs
 Azure/employee-retention-databricks-kubernetes-poc
+Azure/fabric-policy-as-code
