@@ -101,7 +101,7 @@ actions/create-release@v1.1.4
 actions/delete-package-versions@v5.0.0
 actions/dependency-review-action@v5.0.0
 actions/deploy-pages@v5.0.1
-actions/download-artifact@v8.0.1
+actions/download-artifact@v8.0.2
 actions/first-interaction@v3.1.0
 actions/github-script@v9.0.0
 actions/go-dependency-submission@v2.0.3
@@ -117,7 +117,7 @@ actions/setup-node@v7.0.0
 actions/setup-python@v7.0.0
 actions/setup-ruby@v1.1.3
 actions/stale@v11.0.0
-actions/upload-artifact@v7.0.1
+actions/upload-artifact@v7.0.2
 actions/upload-code-coverage@v1.4.4
 actions/upload-pages-artifact@v5.0.0
 actions/upload-release-asset@v1.0.2
@@ -141,7 +141,7 @@ actions/create-release@0cb9c9b65d5d1901c1f53e5e66eaf4afd303e70e # v1.1.4
 actions/delete-package-versions@e5bc658cc4c965c472efe991f8beea3981499c55 # v5.0.0
 actions/dependency-review-action@a1d282b36b6f3519aa1f3fc636f609c47dddb294 # v5.0.0
 actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1
-actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
+actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
 actions/first-interaction@1c4688942c71f71d4f5502a26ea67c331730fa4d # v3.1.0
 actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9.0.0
 actions/go-dependency-submission@f35d5c9af13ce9cc32f7930b171e315e878f6921 # v2.0.3
@@ -157,7 +157,7 @@ actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
 actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
 actions/setup-ruby@e932e7af67fc4a8fc77bd86b744acd4e42fe3543 # v1.1.3
 actions/stale@4391f3da665fdf50b6810c1a66712fb9ba21aa93 # v11.0.0
-actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
 actions/upload-code-coverage@2b21a77928be8d5168c2b9581a67f2adbebacc52 # v1.4.4
 actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
 actions/upload-release-asset@e8f9f06c4b078e705bd2ea027f0926603fc9b4d5 # v1.0.2
@@ -402,7 +402,7 @@ Azure/k8s-lint@v4.0.0
 Azure/k8s-set-context@v5.0.1
 Azure/login@v3.1.0
 Azure/setup-helm@v5.0.1
-Azure/setup-kubectl@v5.1.0
+Azure/setup-kubectl@v5.2.0
 Azure/sql-action@v2.2.1
 ```
 
@@ -429,7 +429,7 @@ Azure/k8s-lint@e4234c50ea835112e72b145bdecd00a94bad42fd # v4.0.0
 Azure/k8s-set-context@8698eba2499e9012f0d5085f8798077cce4bc526 # v5.0.1
 Azure/login@a641126d1b8aa4d1fa005f4f92df94a3a4c4c906 # v3.1.0
 Azure/setup-helm@9bc31f4ebc9c6b171d7bfbaa5d006ae7abdb4310 # v5.0.1
-Azure/setup-kubectl@829323503d1be3d00ca8346e5391ca0b07a9ab0d # v5.1.0
+Azure/setup-kubectl@bda439f5f36b99b262ebdcd3613869bddb064c8e # v5.2.0
 Azure/sql-action@96cea35f2b24c72eb5b6ece33d45e6f60e6b7b87 # v2.2.1
 ```
 

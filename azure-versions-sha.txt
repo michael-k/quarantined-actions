@@ -13,5 +13,5 @@ Azure/k8s-lint@e4234c50ea835112e72b145bdecd00a94bad42fd # v4.0.0
 Azure/k8s-set-context@8698eba2499e9012f0d5085f8798077cce4bc526 # v5.0.1
 Azure/login@a641126d1b8aa4d1fa005f4f92df94a3a4c4c906 # v3.1.0
 Azure/setup-helm@9bc31f4ebc9c6b171d7bfbaa5d006ae7abdb4310 # v5.0.1
-Azure/setup-kubectl@829323503d1be3d00ca8346e5391ca0b07a9ab0d # v5.1.0
+Azure/setup-kubectl@bda439f5f36b99b262ebdcd3613869bddb064c8e # v5.2.0
 Azure/sql-action@96cea35f2b24c72eb5b6ece33d45e6f60e6b7b87 # v2.2.1
