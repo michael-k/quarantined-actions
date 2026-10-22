@@ -3599,6 +3599,10 @@
     "v7.0.0": {
       "sha": "5fda3b95a4ea91299a34e894583c3862153e4b97",
       "first_seen": "2026-07-20"
+    },
+    "v7.1.0": {
+      "sha": "6d4fd22b20465ccc0f7354476588e8df7c9ca0e0",
+      "first_seen": "2026-10-22"
     }
   },
   "actions/setup-ruby": {
@@ -4149,6 +4153,10 @@
     "v0.0.6": {
       "sha": "f589a42a7efb6fe400b4f400de60b4bc90390027",
       "first_seen": "2000-01-01"
+    },
+    "v0.0.7": {
+      "sha": "39b6ce43875c196a579e31635b11aa2a2036384a",
+      "first_seen": "2026-10-22"
     }
   },
   "astral-sh/pyx-auth-action": {
@@ -4331,6 +4339,14 @@
     "v10.3.0": {
       "sha": "1c37ad07a6a961277cf70c0d37d6f313000f5884",
       "first_seen": "2026-10-10"
+    },
+    "v10.3.1": {
+      "sha": "18d369b23da25a81e9458561248e1aafff6a70fa",
+      "first_seen": "2026-10-22"
+    },
+    "v10.3.2": {
+      "sha": "07a047e608db84b3d8c06cd9a7c7dcc9c355c18e",
+      "first_seen": "2026-10-22"
     },
     "v2.0.0": {
       "sha": "663d8f70829702a37fcda5d723127b0582c125e8",
@@ -8024,6 +8040,10 @@
       "sha": "221e7f4860634eeb1579e3bd7ca232e577bd1864",
       "first_seen": "2026-10-01"
     },
+    "v1.27.0": {
+      "sha": "a4119c5a8c5076236a54e4ce99531f7e4dd2ef84",
+      "first_seen": "2026-10-22"
+    },
     "v1.3.0": {
       "sha": "42a6acc319ac229f86e12bfca3b83de09fb058be",
       "first_seen": "2026-06-06"
@@ -8441,6 +8461,10 @@
     "v5.5.0": {
       "sha": "2bf61fb9464cc67f0cbdeabed6aa0380accd1c70",
       "first_seen": "2026-09-16"
+    },
+    "v5.6.0": {
+      "sha": "7ec28a010822b4626af4874f9448a4b05ac6f3e5",
+      "first_seen": "2026-10-22"
     }
   },
   "docker/setup-qemu-action": {
