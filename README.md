@@ -190,7 +190,7 @@ aws-actions/handle-non-labeled-issues@v1.0.1
 aws-actions/stale-issue-cleanup@v7.1.1
 aws-actions/sustainability-scanner@v1.4.0
 aws-actions/terraform-aws-iam-policy-validator@v1.0.3
-aws-actions/vulnerability-scan-github-action-for-amazon-inspector@v1.6.0
+aws-actions/vulnerability-scan-github-action-for-amazon-inspector@v1.6.1
 ```
 
 </details>
@@ -220,7 +220,7 @@ aws-actions/handle-non-labeled-issues@d6b11a820a09b58180471df5be076df19f05b9dd #
 aws-actions/stale-issue-cleanup@0604f2edf84a3a66bc0dfb4a30eb07814cbdf440 # v7.1.1
 aws-actions/sustainability-scanner@af96153806024859a75e721a2e20a285040ee891 # v1.4.0
 aws-actions/terraform-aws-iam-policy-validator@1cd3c484b95b6c3d9e42ca1797d89ae74eb29ede # v1.0.3
-aws-actions/vulnerability-scan-github-action-for-amazon-inspector@baab69e77b34f244adef1f702d0fd69f2b3bc545 # v1.6.0
+aws-actions/vulnerability-scan-github-action-for-amazon-inspector@c87d8a405e237cfdf16e5dd3808d28d088d7cb6f # v1.6.1
 ```
 
 </details>
@@ -390,7 +390,7 @@ hashicorp/vault-action@892a26828f195e65540a40b4768ae4571f51ebfc # v4.0.0
 Azure/aca-review-apps@v0.2.1
 Azure/aks-set-context@v5.0.1
 Azure/bicep-build-action@v1.0.1
-Azure/bicep-deploy@v2.3.0
+Azure/bicep-deploy@v2.4.0
 Azure/data-factory-deploy-action@v1.2.0
 Azure/data-factory-export-action@v1.2.1
 Azure/data-factory-validate-action@v1.1.6
@@ -417,7 +417,7 @@ Azure/sql-action@v2.2.1
 Azure/aca-review-apps@edb566ff1c235496327839df6c82713cbe9e93ac # v0.2.1
 Azure/aks-set-context@883bdc8d8d1d0fd87e66cc4ba6f0b618f9eb5281 # v5.0.1
 Azure/bicep-build-action@d2a88e5c7150cd562f3e8b8f361560db2cb4d5c5 # v1.0.1
-Azure/bicep-deploy@66910e9c5c7733c33a1cd605030d02234b3bc4ed # v2.3.0
+Azure/bicep-deploy@4dc076a544e5297d3aeb3cb972e7614e12f5a55b # v2.4.0
 Azure/data-factory-deploy-action@390b7811bd2e99d4b8cef1bff69dab47bb5872ce # v1.2.0
 Azure/data-factory-export-action@64109498d635d1ad6b6d78bdae3c1460c8d42d06 # v1.2.1
 Azure/data-factory-validate-action@1a1e93960902bd7de128c22b985fb6256988af4b # v1.1.6

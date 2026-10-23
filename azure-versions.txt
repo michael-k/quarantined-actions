@@ -1,7 +1,7 @@
 Azure/aca-review-apps@v0.2.1
 Azure/aks-set-context@v5.0.1
 Azure/bicep-build-action@v1.0.1
-Azure/bicep-deploy@v2.3.0
+Azure/bicep-deploy@v2.4.0
 Azure/data-factory-deploy-action@v1.2.0
 Azure/data-factory-export-action@v1.2.1
 Azure/data-factory-validate-action@v1.1.6

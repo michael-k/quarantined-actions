@@ -17,4 +17,4 @@ aws-actions/handle-non-labeled-issues@v1.0.1
 aws-actions/stale-issue-cleanup@v7.1.1
 aws-actions/sustainability-scanner@v1.4.0
 aws-actions/terraform-aws-iam-policy-validator@v1.0.3
-aws-actions/vulnerability-scan-github-action-for-amazon-inspector@v1.6.0
+aws-actions/vulnerability-scan-github-action-for-amazon-inspector@v1.6.1
