@@ -7599,6 +7599,10 @@
     "v4.6.0": {
       "sha": "dbcb813823bdd20940b903addbd779551569679f",
       "first_seen": "2026-07-30"
+    },
+    "v4.7.0": {
+      "sha": "81c6f93d4bc991e510b342a00b419b3bb4efc5c6",
+      "first_seen": "2026-10-24"
     }
   },
   "docker/metadata-action": {

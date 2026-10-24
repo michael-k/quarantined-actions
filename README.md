@@ -173,7 +173,7 @@ actions/upload-release-asset@e8f9f06c4b078e705bd2ea027f0926603fc9b4d5 # v1.0.2
 ```
 aws-actions/amazon-ecr-login@v2.1.7
 aws-actions/amazon-ecs-deploy-express-service@v1.2.2
-aws-actions/amazon-ecs-deploy-task-definition@v2.6.3
+aws-actions/amazon-ecs-deploy-task-definition@v2.6.4
 aws-actions/amazon-ecs-render-task-definition@v1.9.1
 aws-actions/amazon-eks-fargate@v0.1.1
 aws-actions/application-observability-for-aws@v1.2.1
@@ -203,7 +203,7 @@ aws-actions/vulnerability-scan-github-action-for-amazon-inspector@v1.6.1
 ```
 aws-actions/amazon-ecr-login@03f1aad4c6c7ffd436567f42f9384779290529bd # v2.1.7
 aws-actions/amazon-ecs-deploy-express-service@7c48a2de16441d528a3c89829831968dc1455010 # v1.2.2
-aws-actions/amazon-ecs-deploy-task-definition@c465972ecbd160473f22e683363b422a5412a3de # v2.6.3
+aws-actions/amazon-ecs-deploy-task-definition@a00d4d57ac0de1a99b39fe469f3d898d38717c2b # v2.6.4
 aws-actions/amazon-ecs-render-task-definition@8d79160660ad39c402a16e5fc7cd2a32e8f7d6b7 # v1.9.1
 aws-actions/amazon-eks-fargate@fa91b1ce6e342eb17a1d57df976506d02f074640 # v0.1.1
 aws-actions/application-observability-for-aws@3ad2bc7d604dc6853b503f18ad4d5495dcf4ee08 # v1.2.1
@@ -234,7 +234,7 @@ aws-actions/vulnerability-scan-github-action-for-amazon-inspector@c87d8a405e237c
 astral-sh/attest-action@v0.0.6
 astral-sh/pyx-auth-action@v0.0.11
 astral-sh/ruff-action@v4.1.0
-astral-sh/setup-uv@v10.2.0
+astral-sh/setup-uv@v10.3.0
 ```
 
 </details>
@@ -248,7 +248,7 @@ astral-sh/setup-uv@v10.2.0
 astral-sh/attest-action@f589a42a7efb6fe400b4f400de60b4bc90390027 # v0.0.6
 astral-sh/pyx-auth-action@79e821562a189d464bb5cca38f596780342036c3 # v0.0.11
 astral-sh/ruff-action@278981a28ce3188b1e39527901f38254bf3aac89 # v4.1.0
-astral-sh/setup-uv@c18668ad3cf93ea998bef934396af7bb5c839dc7 # v10.2.0
+astral-sh/setup-uv@1c37ad07a6a961277cf70c0d37d6f313000f5884 # v10.3.0
 ```
 
 </details>
