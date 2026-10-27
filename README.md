@@ -96,7 +96,7 @@ actions/attest-sbom@v4.1.0
 actions/cache@v6.1.0
 actions/checkout@v7.0.1
 actions/configure-pages@v6.0.0
-actions/create-github-app-token@v3.2.0
+actions/create-github-app-token@v3.3.0
 actions/create-release@v1.1.4
 actions/delete-package-versions@v5.0.0
 actions/dependency-review-action@v5.0.0
@@ -136,7 +136,7 @@ actions/attest-sbom@c604332985a26aa8cf1bdc465b92731239ec6b9e # v4.1.0
 actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
 actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6.0.0
-actions/create-github-app-token@bcd2ba49218906704ab6c1aa796996da409d3eb1 # v3.2.0
+actions/create-github-app-token@64ab729a6294000f5aa4a4bc0b73d1f32bc45510 # v3.3.0
 actions/create-release@0cb9c9b65d5d1901c1f53e5e66eaf4afd303e70e # v1.1.4
 actions/delete-package-versions@e5bc658cc4c965c472efe991f8beea3981499c55 # v5.0.0
 actions/dependency-review-action@a1d282b36b6f3519aa1f3fc636f609c47dddb294 # v5.0.0
@@ -188,7 +188,7 @@ aws-actions/codeguru-security@v1.2.2
 aws-actions/configure-aws-credentials@v6.3.0
 aws-actions/handle-non-labeled-issues@v1.0.1
 aws-actions/stale-issue-cleanup@v7.1.1
-aws-actions/sustainability-scanner@v1.4.0
+aws-actions/sustainability-scanner@v1.4.1
 aws-actions/terraform-aws-iam-policy-validator@v1.0.3
 aws-actions/vulnerability-scan-github-action-for-amazon-inspector@v1.6.1
 ```
@@ -218,7 +218,7 @@ aws-actions/codeguru-security@44877802cfee29abce47f8ba12b8417d70d01a9b # v1.2.2
 aws-actions/configure-aws-credentials@e1253824e5c10ff9df46874f81ed3ec929e19cfd # v6.3.0
 aws-actions/handle-non-labeled-issues@d6b11a820a09b58180471df5be076df19f05b9dd # v1.0.1
 aws-actions/stale-issue-cleanup@0604f2edf84a3a66bc0dfb4a30eb07814cbdf440 # v7.1.1
-aws-actions/sustainability-scanner@af96153806024859a75e721a2e20a285040ee891 # v1.4.0
+aws-actions/sustainability-scanner@e9cc38a79df82ee4130722108aad2f87a2083fa2 # v1.4.1
 aws-actions/terraform-aws-iam-policy-validator@1cd3c484b95b6c3d9e42ca1797d89ae74eb29ede # v1.0.3
 aws-actions/vulnerability-scan-github-action-for-amazon-inspector@c87d8a405e237cfdf16e5dd3808d28d088d7cb6f # v1.6.1
 ```
