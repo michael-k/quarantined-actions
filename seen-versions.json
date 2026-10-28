@@ -8048,6 +8048,10 @@
       "sha": "a4119c5a8c5076236a54e4ce99531f7e4dd2ef84",
       "first_seen": "2026-10-22"
     },
+    "v1.28.0": {
+      "sha": "4bbf17a9da65a7b5497361bb407e88cc9548f69c",
+      "first_seen": "2026-10-28"
+    },
     "v1.3.0": {
       "sha": "42a6acc319ac229f86e12bfca3b83de09fb058be",
       "first_seen": "2026-06-06"
