@@ -112,7 +112,7 @@ actions/setup-dotnet@v6.0.0
 actions/setup-elixir@v1.5.0
 actions/setup-go@v7.0.0
 actions/setup-haskell@v1.1.4
-actions/setup-java@v6.0.1
+actions/setup-java@v6.1.0
 actions/setup-node@v7.1.0
 actions/setup-python@v7.0.0
 actions/setup-ruby@v1.1.3
@@ -152,7 +152,7 @@ actions/setup-dotnet@a98b56852c35b8e3190ac28c8c2271da59106c68 # v6.0.0
 actions/setup-elixir@3c118cec41f6c3bfc2c7f2aef9bec886ab0b2324 # v1.5.0
 actions/setup-go@b7ad1dad31e06c5925ef5d2fc7ad053ef454303e # v7.0.0
 actions/setup-haskell@048c29979717135f04282c42c2186bb5945b2d8f # v1.1.4
-actions/setup-java@de7274f081f381c8f8158605e0321c36c376e2e6 # v6.0.1
+actions/setup-java@b843ebf9b913146b38da2eaa7aeddf76074ae1ad # v6.1.0
 actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
 actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
 actions/setup-ruby@e932e7af67fc4a8fc77bd86b744acd4e42fe3543 # v1.1.3
@@ -180,7 +180,7 @@ aws-actions/application-observability-for-aws@v1.2.1
 aws-actions/aws-cloudformation-github-deploy@v2.2.0
 aws-actions/aws-codebuild-run-build@v1.0.19
 aws-actions/aws-continuum-run-pentest@v1.0.0
-aws-actions/aws-elasticbeanstalk-deploy@v1.1.0
+aws-actions/aws-elasticbeanstalk-deploy@v1.1.1
 aws-actions/aws-lambda-deploy@v1.1.2
 aws-actions/aws-secretsmanager-get-secrets@v3.0.2
 aws-actions/cloudformation-aws-iam-policy-validator@v1.0.4
@@ -210,7 +210,7 @@ aws-actions/application-observability-for-aws@3ad2bc7d604dc6853b503f18ad4d5495dc
 aws-actions/aws-cloudformation-github-deploy@81e3b03d2266bcb76c4bcc37a7d71d9cb67838bb # v2.2.0
 aws-actions/aws-codebuild-run-build@7e46c3fa1c1f217e26a73712796b1f78938b534b # v1.0.19
 aws-actions/aws-continuum-run-pentest@1752c1469cb54edda9933d414490d04cd0cd2d10 # v1.0.0
-aws-actions/aws-elasticbeanstalk-deploy@dd5ddd5ba6d4ed614a60db58881028eddb7652cb # v1.1.0
+aws-actions/aws-elasticbeanstalk-deploy@aa4500f20082bb84ee802a632e74021baabba3b2 # v1.1.1
 aws-actions/aws-lambda-deploy@d496277188b89f0be02d7a2216fc912c0427702a # v1.1.2
 aws-actions/aws-secretsmanager-get-secrets@2297f9a879480a9e3af9b293ed15c70caf8e1c88 # v3.0.2
 aws-actions/cloudformation-aws-iam-policy-validator@aa5ca59693ba89d200db1d2b3af4b60989627bdc # v1.0.4
@@ -259,7 +259,7 @@ astral-sh/setup-uv@1c37ad07a6a961277cf70c0d37d6f313000f5884 # v10.3.0
 <summary><h3><code>docker</code></h3></summary>
 
 ```
-docker/bake-action@v7.4.0
+docker/bake-action@v7.5.0
 docker/build-push-action@v7.4.0
 docker/cagent-action@v1.5.5
 docker/docker-agent-action@v2.0.9
@@ -280,7 +280,7 @@ docker/setup-qemu-action@v4.4.0
 <summary><h3><code>docker</code> (SHA-pinned)</h3></summary>
 
 ```
-docker/bake-action@018cb6412ab401ebaa809aa5f85966b74628600f # v7.4.0
+docker/bake-action@59cb1203cd42bcefd40a1b6d73b589e48c86040e # v7.5.0
 docker/build-push-action@c3c9e263c25d99ce0380d002d59b67737d91b0dc # v7.4.0
 docker/cagent-action@367a30ddb41e0156459d03750f508eac03f3c38a # v1.5.5
 docker/docker-agent-action@3654ec391b070e247de2e2e3c1ff2519b6378b3a # v2.0.9

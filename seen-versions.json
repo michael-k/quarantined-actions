@@ -4348,6 +4348,10 @@
       "sha": "07a047e608db84b3d8c06cd9a7c7dcc9c355c18e",
       "first_seen": "2026-10-22"
     },
+    "v10.3.3": {
+      "sha": "68559e99cc807c1eb7e9238fd43a15bba460eec2",
+      "first_seen": "2026-10-29"
+    },
     "v2.0.0": {
       "sha": "663d8f70829702a37fcda5d723127b0582c125e8",
       "first_seen": "2026-06-06"
@@ -6063,6 +6067,10 @@
     "v2.4.0": {
       "sha": "4dc076a544e5297d3aeb3cb972e7614e12f5a55b",
       "first_seen": "2026-10-09"
+    },
+    "v2.5.0": {
+      "sha": "c66bb161da87636b24a64aa8e0a427645d846c57",
+      "first_seen": "2026-10-29"
     }
   },
   "Azure/data-factory-deploy-action": {
@@ -8051,6 +8059,10 @@
     "v1.28.0": {
       "sha": "4bbf17a9da65a7b5497361bb407e88cc9548f69c",
       "first_seen": "2026-10-28"
+    },
+    "v1.29.0": {
+      "sha": "e7e2a72bf1485d10a58f30696b6c513b261ce4fa",
+      "first_seen": "2026-10-29"
     },
     "v1.3.0": {
       "sha": "42a6acc319ac229f86e12bfca3b83de09fb058be",
