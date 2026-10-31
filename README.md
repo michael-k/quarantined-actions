@@ -180,7 +180,7 @@ aws-actions/application-observability-for-aws@v1.2.1
 aws-actions/aws-cloudformation-github-deploy@v2.2.0
 aws-actions/aws-codebuild-run-build@v1.0.19
 aws-actions/aws-continuum-run-pentest@v1.0.0
-aws-actions/aws-elasticbeanstalk-deploy@v1.1.1
+aws-actions/aws-elasticbeanstalk-deploy@v1.1.2
 aws-actions/aws-lambda-deploy@v1.1.2
 aws-actions/aws-secretsmanager-get-secrets@v3.0.2
 aws-actions/cloudformation-aws-iam-policy-validator@v1.0.4
@@ -210,7 +210,7 @@ aws-actions/application-observability-for-aws@3ad2bc7d604dc6853b503f18ad4d5495dc
 aws-actions/aws-cloudformation-github-deploy@81e3b03d2266bcb76c4bcc37a7d71d9cb67838bb # v2.2.0
 aws-actions/aws-codebuild-run-build@7e46c3fa1c1f217e26a73712796b1f78938b534b # v1.0.19
 aws-actions/aws-continuum-run-pentest@1752c1469cb54edda9933d414490d04cd0cd2d10 # v1.0.0
-aws-actions/aws-elasticbeanstalk-deploy@aa4500f20082bb84ee802a632e74021baabba3b2 # v1.1.1
+aws-actions/aws-elasticbeanstalk-deploy@64a802e1f41fc559cf0a17e3e8e81bd6aaade12e # v1.1.2
 aws-actions/aws-lambda-deploy@d496277188b89f0be02d7a2216fc912c0427702a # v1.1.2
 aws-actions/aws-secretsmanager-get-secrets@2297f9a879480a9e3af9b293ed15c70caf8e1c88 # v3.0.2
 aws-actions/cloudformation-aws-iam-policy-validator@aa5ca59693ba89d200db1d2b3af4b60989627bdc # v1.0.4
