@@ -11439,6 +11439,10 @@
     "v6.1.0": {
       "sha": "ea17c68df8912ef543352723c149a84f56e3d413",
       "first_seen": "2026-09-05"
+    },
+    "v6.1.1": {
+      "sha": "73e46992e05b19abd31f2f3c20e0e7370d762115",
+      "first_seen": "2026-11-04"
     }
   },
   "webfactory/ssh-agent": {
