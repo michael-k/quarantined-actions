@@ -114,7 +114,7 @@ actions/setup-go@v7.0.0
 actions/setup-haskell@v1.1.4
 actions/setup-java@v6.1.0
 actions/setup-node@v7.1.0
-actions/setup-python@v7.0.0
+actions/setup-python@v7.1.0
 actions/setup-ruby@v1.1.3
 actions/stale@v11.0.0
 actions/upload-artifact@v7.0.2
@@ -154,7 +154,7 @@ actions/setup-go@b7ad1dad31e06c5925ef5d2fc7ad053ef454303e # v7.0.0
 actions/setup-haskell@048c29979717135f04282c42c2186bb5945b2d8f # v1.1.4
 actions/setup-java@b843ebf9b913146b38da2eaa7aeddf76074ae1ad # v6.1.0
 actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
-actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
 actions/setup-ruby@e932e7af67fc4a8fc77bd86b744acd4e42fe3543 # v1.1.3
 actions/stale@4391f3da665fdf50b6810c1a66712fb9ba21aa93 # v11.0.0
 actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
@@ -231,10 +231,10 @@ aws-actions/vulnerability-scan-github-action-for-amazon-inspector@c87d8a405e237c
 <summary><h3><code>astral-sh</code></h3></summary>
 
 ```
-astral-sh/attest-action@v0.0.6
+astral-sh/attest-action@v0.0.7
 astral-sh/pyx-auth-action@v0.0.11
 astral-sh/ruff-action@v4.1.0
-astral-sh/setup-uv@v10.3.0
+astral-sh/setup-uv@v10.3.2
 ```
 
 </details>
@@ -245,10 +245,10 @@ astral-sh/setup-uv@v10.3.0
 <summary><h3><code>astral-sh</code> (SHA-pinned)</h3></summary>
 
 ```
-astral-sh/attest-action@f589a42a7efb6fe400b4f400de60b4bc90390027 # v0.0.6
+astral-sh/attest-action@39b6ce43875c196a579e31635b11aa2a2036384a # v0.0.7
 astral-sh/pyx-auth-action@79e821562a189d464bb5cca38f596780342036c3 # v0.0.11
 astral-sh/ruff-action@278981a28ce3188b1e39527901f38254bf3aac89 # v4.1.0
-astral-sh/setup-uv@1c37ad07a6a961277cf70c0d37d6f313000f5884 # v10.3.0
+astral-sh/setup-uv@07a047e608db84b3d8c06cd9a7c7dcc9c355c18e # v10.3.2
 ```
 
 </details>
@@ -265,10 +265,10 @@ docker/cagent-action@v1.5.5
 docker/docker-agent-action@v2.1.0
 docker/login-action@v4.6.0
 docker/metadata-action@v6.2.0
-docker/scout-action@v1.26.0
+docker/scout-action@v1.27.0
 docker/setup-buildx-action@v4.4.1
 docker/setup-compose-action@v2.4.0
-docker/setup-docker-action@v5.5.0
+docker/setup-docker-action@v5.6.0
 docker/setup-qemu-action@v4.4.0
 ```
 
@@ -286,10 +286,10 @@ docker/cagent-action@367a30ddb41e0156459d03750f508eac03f3c38a # v1.5.5
 docker/docker-agent-action@aaa657c53cc69ed15683cd8a985d86663a0e1594 # v2.1.0
 docker/login-action@dbcb813823bdd20940b903addbd779551569679f # v4.6.0
 docker/metadata-action@dc802804100637a589fabce1cb79ff13a1411302 # v6.2.0
-docker/scout-action@221e7f4860634eeb1579e3bd7ca232e577bd1864 # v1.26.0
+docker/scout-action@a4119c5a8c5076236a54e4ce99531f7e4dd2ef84 # v1.27.0
 docker/setup-buildx-action@f87e5991a6d7451dcb8d9637bfbc97413f497069 # v4.4.1
 docker/setup-compose-action@54042514f505b273907334ae2b9cdbb9a0213c1a # v2.4.0
-docker/setup-docker-action@2bf61fb9464cc67f0cbdeabed6aa0380accd1c70 # v5.5.0
+docker/setup-docker-action@7ec28a010822b4626af4874f9448a4b05ac6f3e5 # v5.6.0
 docker/setup-qemu-action@99012661954931238ded8c8b007157a8430204e1 # v4.4.0
 ```
 
