@@ -67,6 +67,10 @@
     "v2.0.0": {
       "sha": "5afcf98fcd03f1c2f92c3c83f58ae24323cc57fd",
       "first_seen": "2000-01-01"
+    },
+    "v2.0.1": {
+      "sha": "f2c1f1fa649a891be84948ea89b5dfba1526ef05",
+      "first_seen": "2026-11-07"
     }
   },
   "actions/ai-inference": {
