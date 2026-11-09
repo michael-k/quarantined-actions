@@ -4,6 +4,7 @@ astral-sh/actionlint
 astral-sh/aghs-testbed
 astral-sh/aghs-testbed-policies
 astral-sh/archive-in-git-test
+astral-sh/are-we-pax-yet
 astral-sh/cargo-fixit
 astral-sh/char_str
 astral-sh/claude-code-plugins
