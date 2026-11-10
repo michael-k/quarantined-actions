@@ -6291,6 +6291,10 @@
     "v4.0.0": {
       "sha": "e4234c50ea835112e72b145bdecd00a94bad42fd",
       "first_seen": "2000-01-01"
+    },
+    "v4.1.0": {
+      "sha": "6a0796029c4d61b43d9e229a6e39c9897a9fb558",
+      "first_seen": "2026-11-10"
     }
   },
   "Azure/k8s-set-context": {
@@ -6313,6 +6317,10 @@
     "v5.0.1": {
       "sha": "8698eba2499e9012f0d5085f8798077cce4bc526",
       "first_seen": "2026-06-24"
+    },
+    "v5.0.2": {
+      "sha": "5f008dfddbbc9df61ba40a7aaa912c6033ba62fc",
+      "first_seen": "2026-11-10"
     }
   },
   "Azure/login": {
@@ -6461,6 +6469,10 @@
     "v5.0.1": {
       "sha": "9bc31f4ebc9c6b171d7bfbaa5d006ae7abdb4310",
       "first_seen": "2026-06-24"
+    },
+    "v5.1.0": {
+      "sha": "2f5e7bc67f1f9972ab16657bb795f36d8f04de0e",
+      "first_seen": "2026-11-10"
     }
   },
   "Azure/setup-kubectl": {
