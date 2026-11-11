@@ -6007,6 +6007,10 @@
     "v1.6.1": {
       "sha": "c87d8a405e237cfdf16e5dd3808d28d088d7cb6f",
       "first_seen": "2026-10-09"
+    },
+    "v1.7.0": {
+      "sha": "6b57bbc6000f30afb3cfc2d00b9c442ddc4f1fc9",
+      "first_seen": "2026-11-11"
     }
   },
   "Azure/aca-review-apps": {
