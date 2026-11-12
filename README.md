@@ -234,7 +234,7 @@ aws-actions/vulnerability-scan-github-action-for-amazon-inspector@c87d8a405e237c
 astral-sh/attest-action@v0.0.7
 astral-sh/pyx-auth-action@v0.0.11
 astral-sh/ruff-action@v4.1.0
-astral-sh/setup-uv@v10.3.2
+astral-sh/setup-uv@v10.3.3
 ```
 
 </details>
@@ -248,7 +248,7 @@ astral-sh/setup-uv@v10.3.2
 astral-sh/attest-action@39b6ce43875c196a579e31635b11aa2a2036384a # v0.0.7
 astral-sh/pyx-auth-action@79e821562a189d464bb5cca38f596780342036c3 # v0.0.11
 astral-sh/ruff-action@278981a28ce3188b1e39527901f38254bf3aac89 # v4.1.0
-astral-sh/setup-uv@07a047e608db84b3d8c06cd9a7c7dcc9c355c18e # v10.3.2
+astral-sh/setup-uv@68559e99cc807c1eb7e9238fd43a15bba460eec2 # v10.3.3
 ```
 
 </details>
@@ -265,7 +265,7 @@ docker/cagent-action@v1.5.5
 docker/docker-agent-action@v2.1.0
 docker/login-action@v4.7.0
 docker/metadata-action@v6.2.0
-docker/scout-action@v1.28.0
+docker/scout-action@v1.29.0
 docker/setup-buildx-action@v4.4.1
 docker/setup-compose-action@v2.4.0
 docker/setup-docker-action@v5.6.0
@@ -286,7 +286,7 @@ docker/cagent-action@367a30ddb41e0156459d03750f508eac03f3c38a # v1.5.5
 docker/docker-agent-action@aaa657c53cc69ed15683cd8a985d86663a0e1594 # v2.1.0
 docker/login-action@81c6f93d4bc991e510b342a00b419b3bb4efc5c6 # v4.7.0
 docker/metadata-action@dc802804100637a589fabce1cb79ff13a1411302 # v6.2.0
-docker/scout-action@4bbf17a9da65a7b5497361bb407e88cc9548f69c # v1.28.0
+docker/scout-action@e7e2a72bf1485d10a58f30696b6c513b261ce4fa # v1.29.0
 docker/setup-buildx-action@f87e5991a6d7451dcb8d9637bfbc97413f497069 # v4.4.1
 docker/setup-compose-action@54042514f505b273907334ae2b9cdbb9a0213c1a # v2.4.0
 docker/setup-docker-action@7ec28a010822b4626af4874f9448a4b05ac6f3e5 # v5.6.0
@@ -390,7 +390,7 @@ hashicorp/vault-action@892a26828f195e65540a40b4768ae4571f51ebfc # v4.0.0
 Azure/aca-review-apps@v0.2.1
 Azure/aks-set-context@v5.0.1
 Azure/bicep-build-action@v1.0.1
-Azure/bicep-deploy@v2.4.0
+Azure/bicep-deploy@v2.5.0
 Azure/data-factory-deploy-action@v1.2.0
 Azure/data-factory-export-action@v1.2.1
 Azure/data-factory-validate-action@v1.1.6
@@ -417,7 +417,7 @@ Azure/sql-action@v2.2.1
 Azure/aca-review-apps@edb566ff1c235496327839df6c82713cbe9e93ac # v0.2.1
 Azure/aks-set-context@883bdc8d8d1d0fd87e66cc4ba6f0b618f9eb5281 # v5.0.1
 Azure/bicep-build-action@d2a88e5c7150cd562f3e8b8f361560db2cb4d5c5 # v1.0.1
-Azure/bicep-deploy@4dc076a544e5297d3aeb3cb972e7614e12f5a55b # v2.4.0
+Azure/bicep-deploy@c66bb161da87636b24a64aa8e0a427645d846c57 # v2.5.0
 Azure/data-factory-deploy-action@390b7811bd2e99d4b8cef1bff69dab47bb5872ce # v1.2.0
 Azure/data-factory-export-action@64109498d635d1ad6b6d78bdae3c1460c8d42d06 # v1.2.1
 Azure/data-factory-validate-action@1a1e93960902bd7de128c22b985fb6256988af4b # v1.1.6
