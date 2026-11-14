@@ -3107,6 +3107,10 @@
     "v6.2.0": {
       "sha": "77dd5b2ce225ea11469928ac317850245a74ae78",
       "first_seen": "2026-11-05"
+    },
+    "v6.3.0": {
+      "sha": "d1374f8ac74474200d16ef8ecee22c7ae7a51880",
+      "first_seen": "2026-11-14"
     }
   },
   "actions/setup-node": {
