@@ -441,7 +441,7 @@ Azure/sql-action@96cea35f2b24c72eb5b6ece33d45e6f60e6b7b87 # v2.2.1
 <summary><h3><code>pnpm</code></h3></summary>
 
 ```
-pnpm/action-setup@v6.1.0
+pnpm/action-setup@v6.1.1
 ```
 
 </details>
@@ -452,7 +452,7 @@ pnpm/action-setup@v6.1.0
 <summary><h3><code>pnpm</code> (SHA-pinned)</h3></summary>
 
 ```
-pnpm/action-setup@ea17c68df8912ef543352723c149a84f56e3d413 # v6.1.0
+pnpm/action-setup@73e46992e05b19abd31f2f3c20e0e7370d762115 # v6.1.1
 ```
 
 </details>
