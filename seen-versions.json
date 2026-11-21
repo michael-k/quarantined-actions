@@ -4380,6 +4380,10 @@
       "sha": "68559e99cc807c1eb7e9238fd43a15bba460eec2",
       "first_seen": "2026-10-29"
     },
+    "v10.4.0": {
+      "sha": "1db35dd8eee11c5894872e0b383ae6c406cf738d",
+      "first_seen": "2026-11-21"
+    },
     "v2.0.0": {
       "sha": "663d8f70829702a37fcda5d723127b0582c125e8",
       "first_seen": "2026-06-06"
@@ -6263,6 +6267,10 @@
     "v6.0.1": {
       "sha": "ba774cded95cc0d795806a986fecd1205a6c2320",
       "first_seen": "2026-06-23"
+    },
+    "v6.0.2": {
+      "sha": "39b454ea37d7846d278306e9de84e870e88a5aff",
+      "first_seen": "2026-11-21"
     }
   },
   "Azure/k8s-deploy": {
@@ -8131,6 +8139,10 @@
     "v1.3.0": {
       "sha": "42a6acc319ac229f86e12bfca3b83de09fb058be",
       "first_seen": "2026-06-06"
+    },
+    "v1.30.0": {
+      "sha": "b265cd48f8a1451d2680815b3e8dc4ed65ee16e7",
+      "first_seen": "2026-11-21"
     },
     "v1.4.0": {
       "sha": "1b4253cbbbedb701cc736c210e349d7fb638d510",
