@@ -1,13 +1,14 @@
 astral-sh/.github
 astral-sh/RustPython
 astral-sh/actionlint
+astral-sh/agent-plugins
 astral-sh/aghs-testbed
 astral-sh/aghs-testbed-policies
 astral-sh/archive-in-git-test
 astral-sh/are-we-pax-yet
+astral-sh/astral-dev-toolchain
 astral-sh/cargo-fixit
 astral-sh/char_str
-astral-sh/claude-code-plugins
 astral-sh/conveyor-belt
 astral-sh/crates-policies
 astral-sh/docs
