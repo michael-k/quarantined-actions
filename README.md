@@ -398,10 +398,10 @@ Azure/deployment-what-if-action@v1.0.0
 Azure/k8s-bake@v4.1.1
 Azure/k8s-create-secret@v6.0.1
 Azure/k8s-deploy@v7.0.1
-Azure/k8s-lint@v4.0.0
-Azure/k8s-set-context@v5.0.1
+Azure/k8s-lint@v4.1.0
+Azure/k8s-set-context@v5.0.2
 Azure/login@v3.1.0
-Azure/setup-helm@v5.0.1
+Azure/setup-helm@v5.1.0
 Azure/setup-kubectl@v5.2.0
 Azure/sql-action@v2.2.1
 ```
@@ -425,10 +425,10 @@ Azure/deployment-what-if-action@7caef615e35c10abe2d2dd2ec811071697e9d723 # v1.0.
 Azure/k8s-bake@bf8bfd33b007edea820fe80983239bca24012239 # v4.1.1
 Azure/k8s-create-secret@ba774cded95cc0d795806a986fecd1205a6c2320 # v6.0.1
 Azure/k8s-deploy@bf1ec05e1d736ac4ac70bae889d3ec48c79e2213 # v7.0.1
-Azure/k8s-lint@e4234c50ea835112e72b145bdecd00a94bad42fd # v4.0.0
-Azure/k8s-set-context@8698eba2499e9012f0d5085f8798077cce4bc526 # v5.0.1
+Azure/k8s-lint@6a0796029c4d61b43d9e229a6e39c9897a9fb558 # v4.1.0
+Azure/k8s-set-context@5f008dfddbbc9df61ba40a7aaa912c6033ba62fc # v5.0.2
 Azure/login@a641126d1b8aa4d1fa005f4f92df94a3a4c4c906 # v3.1.0
-Azure/setup-helm@9bc31f4ebc9c6b171d7bfbaa5d006ae7abdb4310 # v5.0.1
+Azure/setup-helm@2f5e7bc67f1f9972ab16657bb795f36d8f04de0e # v5.1.0
 Azure/setup-kubectl@bda439f5f36b99b262ebdcd3613869bddb064c8e # v5.2.0
 Azure/sql-action@96cea35f2b24c72eb5b6ece33d45e6f60e6b7b87 # v2.2.1
 ```
